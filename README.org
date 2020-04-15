@@ -1,0 +1,10 @@
+* This is the git repository for the project '202004_website'
+** Data structure
+  - The processed data are stored in =/data/processed=. This includes all files
+    that are no scanner data.
+  - raw data go int =/data/measured/=
+** Code structure
+  - all code to run the pipeline is in =/scripts/=, matlab needs to be executed
+    from this path
+  - all necessary code is stored in =/code/= and is of no further interest for
+    the user

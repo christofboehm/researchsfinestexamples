@@ -1,0 +1,34 @@
+# mac-related entries
+.DS_Store
+
+# tex-related entries 
+*.aux
+*.bbl
+*.blg
+*.log
+*.pdf
+*.synctex.gz
+*.lof 
+*.lot
+*.out
+*.fls
+*_latexmk
+*.auxlock
+*.fff 
+
+# python-related entries 
+*.pyc 
+
+# spacemacs-related entries
+*.el
+.#* 
+
+# dont push data to repository
+/data/
+*.mat 
+*.raw
+*.lab
+*.sin
+*.frame
+*.par
+*.rec
